@@ -1,0 +1,15 @@
+.bottomcolor {
+    display:flex;
+    justify-content: flex-start;
+    align-items: left;
+
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+    background-size: 100%;
+
+    top: 0;
+    left: 0;
+}

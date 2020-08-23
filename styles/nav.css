@@ -1,0 +1,23 @@
+
+
+.explorernavs {
+    display:flex;
+    align-items: bottom;
+    margin-bottom: 0px;
+}
+
+.nav-link a{
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.exploretext{
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #cea135;
+    font-size: 20px;
+}
